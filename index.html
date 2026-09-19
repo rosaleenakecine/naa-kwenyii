@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nââ Kwênyii — Dictionnaire</title>
+<meta name="description" content="Dictionnaire français → nââ kwênyii, la langue de l'île des Pins (Kounié), Nouvelle-Calédonie.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Karla:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #eef3ee;
+    --surface: #ffffff;
+    --surface-2: #e4ece3;
+    --ink: #16302b;
+    --ink-soft: #4a625c;
+    --muted: #6b8079;
+    --accent: #0e7c6b;
+    --accent-2: #d97f3d;
+    --border: #d6e0d5;
+    --shadow: 0 1px 2px rgba(22,48,43,0.06), 0 8px 24px rgba(22,48,43,0.06);
+    --tag-bg: #e4ece3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1a17;
+      --surface: #16231f;
+      --surface-2: #1d2b26;
+      --ink: #e9f1ec;
+      --ink-soft: #b6c8c1;
+      --muted: #8ba59c;
+      --accent: #3fc0a8;
+      --accent-2: #eb9c5c;
+      --border: #2a3934;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
+      --tag-bg: #1d2b26;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); }
+  body {
+    color: var(--ink);
+    font-family: 'Karla', ui-sans-serif, system-ui, sans-serif;
+    padding-inline: 20px;
+    padding-block: 28px 48px;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  header { margin-bottom: 24px; }
+  .eyebrow {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent-2);
+    margin: 0 0 6px;
+  }
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(32px, 8vw, 44px);
+    line-height: 1.05;
+    margin: 0 0 8px;
+    text-wrap: balance;
+  }
+  .subtitle { font-size: 15px; color: var(--ink-soft); line-height: 1.5; max-width: 52ch; margin: 0; }
+  .search-wrap { position: sticky; top: 0; background: var(--bg); padding-block: 14px 10px; z-index: 5; }
+  .search-box {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: 14px; padding: 10px 14px; box-shadow: var(--shadow);
+  }
+  .search-box:focus-within { border-color: var(--accent); }
+  .search-box svg { flex: none; color: var(--muted); }
+  #q {
+    flex: 1; border: none; outline: none; background: transparent;
+    color: var(--ink); font-family: 'Karla', sans-serif; font-size: 17px; min-width: 0;
+  }
+  #q::placeholder { color: var(--muted); }
+  .status-line {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 8px;
+    font-size: 12.5px; color: var(--muted); padding: 6px 2px 0;
+  }
+  .cat-filters { display: flex; flex-wrap: wrap; gap: 6px; padding: 10px 2px 0; }
+  .cat-chip {
+    font-size: 11.5px; padding: 4px 10px; border-radius: 999px;
+    border: 1px solid var(--border); background: var(--surface);
+    color: var(--ink-soft); cursor: pointer; white-space: nowrap;
+  }
+  .cat-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  #results { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px; }
+  .card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  .naa { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; color: var(--accent); letter-spacing: -0.01em; }
+  .cat { font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); background: var(--tag-bg); border-radius: 999px; padding: 3px 9px; white-space: nowrap; }
+  .fr { font-size: 16px; color: var(--ink); margin-top: 4px; }
+  .note { font-size: 13.5px; color: var(--ink-soft); margin-top: 4px; line-height: 1.45; }
+  .flagline { font-size: 12px; color: var(--accent-2); margin-top: 6px; display: flex; gap: 6px; }
+  .source { font-size: 11px; color: var(--muted); margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border); }
+  .empty { text-align: center; color: var(--muted); font-size: 14px; padding: 40px 16px; line-height: 1.6; }
+  .empty strong { color: var(--ink-soft); }
+  footer { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--border); font-size: 12.5px; color: var(--muted); line-height: 1.6; }
+  footer a { color: var(--accent); }
+  details.about summary {
+    cursor: pointer; font-weight: 600; color: var(--ink-soft); list-style: none;
+    display: flex; align-items: center; gap: 6px;
+  }
+  details.about summary::-webkit-details-marker { display: none; }
+  details.about summary::before { content: "＋"; color: var(--accent); font-weight: 700; }
+  details.about[open] summary::before { content: "－"; }
+  details.about p { margin: 8px 0 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Île des Pins · Kounié</p>
+  <h1>Nââ kwênyii</h1>
+  <p class="subtitle">Cherche un mot en français, il te donne l'équivalent en nââ kwênyii. Dictionnaire vivant : il grandit à chaque session de travail.</p>
+</header>
+
+<div class="search-wrap">
+  <div class="search-box">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input id="q" type="text" inputmode="search" autocomplete="off" placeholder="tortue, vent, cocotier, bonjour…" />
+  </div>
+  <div class="status-line">
+    <span id="count-line"></span>
+    <span id="total-line"></span>
+  </div>
+  <div class="cat-filters" id="cat-filters"></div>
+</div>
+
+<div id="results"></div>
+
+<footer>
+  <details class="about">
+    <summary>À propos de ce dictionnaire</summary>
+    <p>Les mots viennent de trois sources : l'<strong>Académie des Langues Kanak</strong> (graphie officielle actuelle, alk.nc), le glossaire d'Isabelle Leblic, <em>Vivre de la mer, vivre avec la terre… en pays kanak</em> (Société des Océanistes, 2008), et le manuscrit du père Marie-Joseph Dubois, <em>Initiation à la langue de l'Île des Pins</em> (1977). Certaines entrées ont été confirmées par un locuteur.</p>
+    <p>L'orthographe suit la norme ALK actuelle. Certains mots partagent la même écriture pour des sens différents : à l'oral, les tons les distinguent, mais ce dictionnaire ne les note pas encore systématiquement — à vérifier avec un locuteur quand un mot compte.</p>
+    <p>Outil personnel d'apprentissage et de transmission familiale, pas une publication académique. Site indépendant, non affilié à l'ALK.</p>
+  </details>
+</footer>
+
+<script>
+(function () {
+  var DATA_URL = 'dictionnaire.json';
+  var results = document.getElementById('results');
+  var input = document.getElementById('q');
+  var countLine = document.getElementById('count-line');
+  var totalLine = document.getElementById('total-line');
+  var catFilters = document.getElementById('cat-filters');
+  var allEntries = [];
+  var activeCat = null;
+
+  function stripAccents(s) { return s.normalize('NFKD').replace(/[̀-ͯ]/g, ''); }
+  function norm(s) { return stripAccents((s || '').toLowerCase()).replace(/[^a-z0-9' -]/g, ' ').trim(); }
+  function escapeHtml(s) {
+    return (s || '').replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+
+  function cardHtml(e) {
+    var flag = e.flag ? '<div class="flagline">⚠ ' + escapeHtml(e.flag) + '</div>' : '';
+    var note = e.note ? '<div class="note">' + escapeHtml(e.note) + '</div>' : '';
+    return '' +
+      '<div class="card">' +
+        '<div class="card-head">' +
+          '<span class="naa">' + escapeHtml(e.naa) + '</span>' +
+          (e.category ? '<span class="cat">' + escapeHtml(e.category) + '</span>' : '') +
+        '</div>' +
+        '<div class="fr">' + escapeHtml(e.fr) + '</div>' +
+        note + flag +
+        '<div class="source">Source : ' + escapeHtml(e.source || '—') + '</div>' +
+      '</div>';
+  }
+
+  function renderCatFilters() {
+    var cats = {};
+    allEntries.forEach(function (e) { if (e.category) cats[e.category] = (cats[e.category] || 0) + 1; });
+    var names = Object.keys(cats).sort();
+    catFilters.innerHTML = names.map(function (c) {
+      return '<button class="cat-chip" data-cat="' + escapeHtml(c) + '">' + escapeHtml(c) + ' (' + cats[c] + ')</button>';
+    }).join('');
+    catFilters.querySelectorAll('.cat-chip').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var c = btn.getAttribute('data-cat');
+        activeCat = activeCat === c ? null : c;
+        catFilters.querySelectorAll('.cat-chip').forEach(function (b) {
+          b.classList.toggle('active', b.getAttribute('data-cat') === activeCat);
+        });
+        render(input.value);
+      });
+    });
+  }
+
+  function render(query) {
+    var q = norm(query);
+    var pool = activeCat ? allEntries.filter(function (e) { return e.category === activeCat; }) : allEntries;
+
+    if (!q) {
+      if (activeCat) {
+        countLine.textContent = pool.length + ' mot' + (pool.length > 1 ? 's' : '') + ' — ' + activeCat;
+        results.innerHTML = pool.map(cardHtml).join('');
+      } else {
+        countLine.textContent = 'Prêt à chercher';
+        results.innerHTML = '<div class="empty">Tape un mot français — <strong>tortue</strong>, <strong>vent</strong>, <strong>cocotier</strong>, <strong>bonjour</strong>… — pour voir son équivalent en nââ kwênyii, ou choisis une catégorie ci-dessus.</div>';
+      }
+      return;
+    }
+    var matches = pool.filter(function (e) { return e._haystack.indexOf(q) !== -1; });
+    matches.sort(function (a, b) {
+      var af = norm(a.fr).indexOf(q), bf = norm(b.fr).indexOf(q);
+      if (af === 0 && bf !== 0) return -1;
+      if (bf === 0 && af !== 0) return 1;
+      return 0;
+    });
+    if (!matches.length) {
+      countLine.textContent = '0 résultat';
+      results.innerHTML = '<div class="empty">Pas encore ce mot-là dans le dictionnaire.<br>Le lexique s\'enrichit petit à petit à chaque séance.</div>';
+      return;
+    }
+    countLine.textContent = matches.length + ' résultat' + (matches.length > 1 ? 's' : '');
+    results.innerHTML = matches.map(cardHtml).join('');
+  }
+
+  input.addEventListener('input', function () { render(input.value); });
+
+  fetch(DATA_URL)
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      allEntries = data.map(function (e) {
+        var hay = norm([e.fr, e.naa, e.note].filter(Boolean).join(' '));
+        return Object.assign({ _haystack: hay }, e);
+      });
+      totalLine.textContent = allEntries.length + ' mots enregistrés';
+      renderCatFilters();
+      render('');
+    })
+    .catch(function (err) {
+      countLine.textContent = 'Erreur de chargement du dictionnaire : ' + err;
+      results.innerHTML = '<div class="empty">Impossible de charger dictionnaire.json. Vérifie qu\'il est bien dans le même dossier que cette page.</div>';
+    });
+})();
+</script>
+</body>
+</html>

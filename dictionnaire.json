@@ -1,0 +1,1378 @@
+[
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "montagne",
+  "naa": "ngwè",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "île",
+  "naa": "nuu",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "terre",
+  "naa": "draa",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "eau",
+  "naa": "je",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "nuage",
+  "naa": "kôtrë",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "nuages en couloirs, cirro-cumulus",
+  "naa": "kwatrë",
+  "note": "nuages qui restent stationnaires en haut et forment des couloirs",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "cyclone",
+  "naa": "dyé",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "homographe possible avec vùù (pierre/parler), tons non notés ici",
+  "fr": "étoile",
+  "naa": "vùoo",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "étoile du jour",
+  "naa": "ûdatriiê",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "lune",
+  "naa": "ngûrê",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "clair de lune",
+  "naa": "mécaa-mëë",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "arc-en-ciel",
+  "naa": "timmîê",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "homographe",
+  "fr": "pluie",
+  "naa": "xi",
+  "note": "attention : homographe avec xi = poulpe, tons différents non notés ici",
+  "source": "Leblic 2008 & ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "vent",
+  "naa": "kwié",
+  "note": "",
+  "source": "ALK & Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "vent dominant de l'été",
+  "naa": "cërëtë",
+  "note": "souffle du Sud-Est au Nord-Est en début d'été",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "vent d'Est",
+  "naa": "mmëtë",
+  "note": "vent régnant",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "vent du Sud-Ouest",
+  "naa": "ngaayu",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "brise de terre",
+  "naa": "nyoo",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "brise de mer",
+  "naa": "jaa wékwié",
+  "note": "empêche la pêche, la mer est soulevée par le vent",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "calme plat",
+  "naa": "jëkâ",
+  "note": "absence de vent",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "le temps qu'il fait",
+  "naa": "kaaré",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "beau temps",
+  "naa": "kaarétrî",
+  "note": "calme et serein",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "mauvais temps",
+  "naa": "kaaré a pwate",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "marée",
+  "naa": "kwè",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "marée haute, montante",
+  "naa": "yoo",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "marée basse",
+  "naa": "mmi",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "sapin",
+  "naa": "xùrù",
+  "note": "à rapprocher du nom de l'île des Pins",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "tortue",
+  "naa": "ôô",
+  "note": "",
+  "source": "ALK & Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "variante",
+  "fr": "tortue",
+  "naa": "ûû",
+  "note": "variante relevée chez Leblic 2008, à confirmer avec un locuteur",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "requin",
+  "naa": "kâârê",
+  "note": "Nebrius concolor",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "requin",
+  "naa": "xëë",
+  "note": "terme générique",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "langouste",
+  "naa": "kuré",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "langouste",
+  "naa": "nyèvê",
+  "note": "Parribacus caledonicus",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "sardine",
+  "naa": "kwaa",
+  "note": "Clupeidés",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "lézard",
+  "naa": "buyu",
+  "note": "peut aussi désigner un requin en mer",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "lézard",
+  "naa": "bwéa",
+  "note": "totem pour les Vâkummè et les Vaamâ",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "poulet, volaille",
+  "naa": "da",
+  "note": "",
+  "source": "Leblic 2008 & ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "huître perlière",
+  "naa": "nié",
+  "note": "Pinctada margaritifera",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "escargot bulime",
+  "naa": "ngôô",
+  "note": "Placostylus, Bulimidae",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "escargot",
+  "naa": "ngô",
+  "note": "terme général",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "bernard-l'hermite",
+  "naa": "kûâ",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "poisson",
+  "naa": "mii",
+  "note": "terme générique",
+  "source": "Leblic 2008 & ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "frégate",
+  "naa": "maa",
+  "note": "oiseau marin",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "homographe",
+  "fr": "pigeon vert",
+  "naa": "nê",
+  "note": "attention : homographe avec nê = noir, tons différents non notés ici",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "nautou",
+  "naa": "nüdù",
+  "note": "pigeon des îles",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "écrevisse, crevette",
+  "naa": "kakurak",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "conque",
+  "naa": "dù",
+  "note": "gros coquillage",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "mouche",
+  "naa": "nâ",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "homographe",
+  "fr": "poulpe",
+  "naa": "xi",
+  "note": "terme générique ; attention homographe avec xi = pluie",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "vache marine, dugong",
+  "naa": "wûnê",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "crabe rouge",
+  "naa": "drollé",
+  "note": "totem pour les Vâkummè",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "crabe",
+  "naa": "böö",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "cocotier",
+  "naa": "nyî",
+  "note": "",
+  "source": "Leblic 2008 & ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "niaouli",
+  "naa": "mé",
+  "note": "Melaleuca quinquenervia",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "banian",
+  "naa": "mâ",
+  "note": "Ficus sp.",
+  "source": "Leblic 2008 & ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "pin colonnaire",
+  "naa": "xere",
+  "note": "Araucaria columnaris, l'arbre emblématique de l'île des Pins",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "taro",
+  "naa": "tèlèi",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "igname",
+  "naa": "ku",
+  "note": "Dioscorea alata",
+  "source": "ALK & Dubois 1977"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "canne à sucre",
+  "naa": "dë",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "pomme kanak",
+  "naa": "ngüüe",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "bourao",
+  "naa": "vë",
+  "note": "Hibiscus tiliaceus",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "figue",
+  "naa": "pwéu",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "liane épineuse",
+  "naa": "buu",
+  "note": "Caesalpinia crista",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "plantes",
+  "flag": "",
+  "fr": "kaori",
+  "naa": "béréuru",
+  "note": "Agathis sp.",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "papa, père",
+  "naa": "cica",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "personnes, gens",
+  "naa": "wawè",
+  "note": "",
+  "source": "ALK & Dubois 1977"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "vieux, personnes âgées",
+  "naa": "wawekêê",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "tu",
+  "naa": "gwé",
+  "note": "forme respectueuse du pronom \"tu\"",
+  "source": "ALK"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "femme",
+  "naa": "nyä",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "femme, épouse",
+  "naa": "vyo",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "grand frère",
+  "naa": "ttëë",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "petit frère",
+  "naa": "ttii",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "fille de",
+  "naa": "nää",
+  "note": "particule de filiation",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "corps",
+  "flag": "",
+  "fr": "cœur",
+  "naa": "nuè",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "corps",
+  "flag": "",
+  "fr": "pied",
+  "naa": "vè",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "couleurs",
+  "flag": "",
+  "fr": "rouge",
+  "naa": "mié",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "couleurs",
+  "flag": "",
+  "fr": "blanc",
+  "naa": "bwaa",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "couleurs",
+  "flag": "homographe",
+  "fr": "noir",
+  "naa": "nê",
+  "note": "attention : homographe avec nê = pigeon vert, tons différents non notés ici",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "grand",
+  "naa": "kîî",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "petit",
+  "naa": "cii",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "gros",
+  "naa": "trékwatré",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "mauvais",
+  "naa": "pwatë",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "vrai",
+  "naa": "dè",
+  "note": "",
+  "source": "ALK & Dubois 1977"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "chaud",
+  "naa": "amé",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "mouillé",
+  "naa": "mià",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "voile",
+  "naa": "nôô",
+  "note": "voile de pirogue",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "ancre",
+  "naa": "vènê-nye",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "hameçon",
+  "naa": "xéénü cici",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "nasse à poissons",
+  "naa": "yii",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "sagaie",
+  "naa": "ji",
+  "note": "terme générique",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "harpon",
+  "naa": "mwakicé",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "mât",
+  "naa": "pênââ",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "gabarit",
+  "naa": "kwa",
+  "note": "mesure pour fabriquer les filets",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "petit panier",
+  "naa": "geboo",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "panier",
+  "naa": "butrüü",
+  "note": "panier de pêche, entre autres usages",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "hache",
+  "naa": "giè",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "pêcher",
+  "naa": "iyè",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "pêcher à la torche",
+  "naa": "nyùrê",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "pêcher les tortues à la torche",
+  "naa": "mmaré",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "gagner",
+  "naa": "jèrèè",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "lancer la sagaie, piquer",
+  "naa": "yuué",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "encercler le poisson",
+  "naa": "vùtûûe",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "couper, abattre un arbre",
+  "naa": "vétè",
+  "note": "",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "dire",
+  "naa": "nii",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "demander",
+  "naa": "vaa",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "masser",
+  "naa": "trapiè",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "être assis",
+  "naa": "trebu",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "arriver",
+  "naa": "nyayié",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "piquer",
+  "naa": "cipi",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "descendre",
+  "naa": "tùù",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "boire",
+  "naa": "kûû",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "aller",
+  "naa": "vàà",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "homographe",
+  "fr": "parler",
+  "naa": "vùù",
+  "note": "attention : homographe avec vùù = pierre, tons différents non notés ici",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "tout à l'heure",
+  "naa": "gaö",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "sur",
+  "naa": "rokô",
+  "note": "préposition",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "trou, grotte",
+  "naa": "kù",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "noix de coco sèche",
+  "naa": "mee",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "coco germé",
+  "naa": "de",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "œuf",
+  "naa": "kë",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "algue",
+  "naa": "ngëë",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nombres",
+  "flag": "",
+  "fr": "deux",
+  "naa": "bo",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "homographe",
+  "fr": "pierre",
+  "naa": "vùù",
+  "note": "attention : homographe avec vùù = parler, tons différents non notés ici",
+  "source": "Leblic 2008"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "chercher des escargots",
+  "naa": "xèè ngô",
+  "note": "expression",
+  "source": "ALK"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "pays, territoire, lieu",
+  "naa": "wûû",
+  "note": "",
+  "source": "Dubois 1977"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Bonjour !",
+  "naa": "Wéé, ga vï ?",
+  "note": "formule de salutation",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Merci beaucoup !",
+  "naa": "Olé atrekwatrë !",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "À tout à l'heure !",
+  "naa": "Gaö mwê !",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Au revoir !",
+  "naa": "Yuréra !",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "À bientôt !",
+  "naa": "Ngà taa nyii mwê !",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Comment t'appelles-tu ?",
+  "naa": "Ga vané öw ?",
+  "note": "réponse type : \"Vané ö ra [prénom]\" = je m'appelle [prénom]",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Où vas-tu ?",
+  "naa": "Gu và ényô ?",
+  "note": "réponse type : \"Go và wè yèè\" = je vais à la pêche",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Que fais-tu ?",
+  "naa": "Gu wè jè ?",
+  "note": "réponse type : \"Go kii\" = je mange",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Quelle heure est-il ?",
+  "naa": "Yi ré tré ngèrànyii ngà rà ?",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Il dort.",
+  "naa": "Yi mii.",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Il va se baigner à la mer.",
+  "naa": "Yi ré và wè cié wii jexè.",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Elles tressent des paniers.",
+  "naa": "Në vevùù wabutrù.",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Je parle le kunié.",
+  "naa": "Go vùù nââ kwényï.",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Il pleut.",
+  "naa": "Xë de xë.",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "expressions",
+  "flag": "",
+  "fr": "Il fait beau.",
+  "naa": "Kwétrîî to dè kwétrîî.",
+  "note": "à rapprocher de kwéétrî/kaarétrî = beau temps, calme et serein",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "La folie des grandeurs ne guérit pas les maux.",
+  "naa": "Nowé vëcape nokô a gï nô yuuè taa nyii.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "Il faut savoir gérer son temps.",
+  "naa": "Nô vangà mô karè, nô vangà kaa karè.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "Savoir s'humilier devant les plus anciens.",
+  "naa": "Nô titè ngwajè kô wanyerä.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "La langue est source de vie.",
+  "naa": "Nââ nuu ö gï, yi vemoore taa kotre.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "Savoir appréhender le bon moment pour s'élancer.",
+  "naa": "Nô treké kwè, nô treké karè.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "Chaque jour, son histoire.",
+  "naa": "Taa nyii bwa yia ngà vï ö rë.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "proverbes",
+  "flag": "",
+  "fr": "Doucement mais sûrement.",
+  "naa": "Nô wè kee, nô wè kwè.",
+  "note": "dicton",
+  "source": "ALK"
+ },
+ {
+  "category": "animaux",
+  "flag": "",
+  "fr": "poisson (espèce liée à la fête de la Nouvelle Igname)",
+  "naa": "mïkwaa",
+  "note": "réponse de la devinette \"Ko vetrapipi\"",
+  "source": "ALK"
+ },
+ {
+  "category": "pronoms",
+  "flag": "",
+  "fr": "je",
+  "naa": "go",
+  "note": "pronom sujet",
+  "source": "ALK"
+ },
+ {
+  "category": "pronoms",
+  "flag": "",
+  "fr": "tu",
+  "naa": "gu",
+  "note": "forme courante ; à distinguer de gwé, forme respectueuse",
+  "source": "ALK"
+ },
+ {
+  "category": "pronoms",
+  "flag": "",
+  "fr": "il, elle",
+  "naa": "yi",
+  "note": "pronom sujet",
+  "source": "ALK"
+ },
+ {
+  "category": "pronoms",
+  "flag": "",
+  "fr": "elles, ils",
+  "naa": "në",
+  "note": "pronom sujet pluriel",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "manger",
+  "naa": "kii",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "homographe",
+  "fr": "dormir",
+  "naa": "mii",
+  "note": "attention : homographe avec mii = poisson, tons différents non notés ici",
+  "source": "ALK"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "la pêche",
+  "naa": "yèè",
+  "note": "activité ; \"go và wè yèè\" = je vais à la pêche",
+  "source": "ALK"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "se baigner",
+  "naa": "cié",
+  "note": "",
+  "source": "ALK"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "mer, eau",
+  "naa": "jexè",
+  "note": "milieu aquatique",
+  "source": "ALK"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "paniers",
+  "naa": "wabutrù",
+  "note": "pluriel de butrüü = panier",
+  "source": "ALK"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "long",
+  "naa": "mwaa",
+  "note": "adjectif",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "pointu",
+  "naa": "mùcù",
+  "note": "",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "algues",
+  "naa": "ngë",
+  "note": "variante courte de ngëë, déjà au dictionnaire",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "récif",
+  "naa": "daa",
+  "note": "à ne pas confondre avec draa = terre",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "sur",
+  "naa": "aré kô",
+  "note": "préposition ; distinct de rokô, déjà au dictionnaire",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "divers",
+  "flag": "",
+  "fr": "dans",
+  "naa": "aro",
+  "note": "préposition",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "les gens de, les clans de",
+  "naa": "wawè gé",
+  "note": "forme composée de wawè = personnes, gens",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "objets",
+  "flag": "",
+  "fr": "filet",
+  "naa": "öö",
+  "note": "",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "beaucoup",
+  "naa": "trekwatrè",
+  "note": "à rapprocher de trékwatré = gros, déjà au dictionnaire",
+  "source": "ALK (devinette Ko vetrapipi), confirmé par un locuteur"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "se quereller",
+  "naa": "vùtrùûe",
+  "note": "",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "apercevoir, voir",
+  "naa": "toâ",
+  "note": "aussi \"ngà toâ\"",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ },
+ {
+  "category": "nature",
+  "flag": "",
+  "fr": "un moment, un temps",
+  "naa": "kaarë",
+  "note": "sens général ; à distinguer de kaaré = le temps qu'il fait (météo), déjà au dictionnaire",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ },
+ {
+  "category": "famille",
+  "flag": "",
+  "fr": "un homme",
+  "naa": "Xéwùù",
+  "note": "",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ },
+ {
+  "category": "qualités",
+  "flag": "",
+  "fr": "fort",
+  "naa": "mwîîa",
+  "note": "",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ },
+ {
+  "category": "verbes",
+  "flag": "",
+  "fr": "retirer",
+  "naa": "Yùxere",
+  "note": "",
+  "source": "ALK (conte Nyii mô Kwiè), confirmé par un locuteur"
+ }
+]
